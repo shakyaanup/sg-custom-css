@@ -291,7 +291,7 @@ html[data-wf-domain="studiographene.webflow.io"] #onetrust-consent-sdk {
 	pointer-events: none;
 }
 
-#onetrust-pc-sdk .ot-accordion-layout.ot-cat-item>button[aria-controls="ot-desc-id-BG19"] {
+#onetrust-pc-sdk .ot-accordion-layout.ot-cat-item>button[aria-controls="ot-desc-id-BG21"] {
 	pointer-events: none;
 	cursor: pointer;
 }
