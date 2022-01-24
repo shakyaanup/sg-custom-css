@@ -408,11 +408,11 @@ html[data-wf-domain="studiographene.webflow.io"] #onetrust-consent-sdk {
 	transform: translate(-50%, -50%) !important;
 }
 
-#onetrust-pc-sdk .ot-switch[for="ot-group-id-BG19"] .ot-switch-nob:before {
+#onetrust-pc-sdk .ot-switch[for="ot-group-id-BG21"] .ot-switch-nob:before {
 	opacity: 1 !important;
 }
 
-#onetrust-pc-sdk .ot-switch[for="ot-group-id-BG19"] {
+#onetrust-pc-sdk .ot-switch[for="ot-group-id-BG21"] {
 	opacity: 0.2;
 	cursor: pointer;
 	pointer-events: none;
