@@ -28,7 +28,7 @@ html[data-wf-domain="studiographene.webflow.io"] #onetrust-consent-sdk {
 	padding: 0 !important;
 	right: -496px !important;
 	left: auto !important;
-	display: flex !important;
+	display: flex;
 	align-items: center !important;
 	top: 50% !important;
 	transform: translateY(-50%) !important;
